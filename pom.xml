@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ashref.loan.rest.ws</groupId>
-	<artifactId>LoanEligebilityRestWs</artifactId>
+	<artifactId>LoanEligibilityRestWs</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>LoanEligebilityRestWs</name>
+	<name>LoanEligibilityRestWs</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

@@ -9,9 +9,9 @@ import com.ashref.loan.rest.ws.payload.requests.CustomerRequest;
 import com.ashref.loan.rest.ws.payload.responses.WsResponse;
 
 @Service
-public class LoanEligebilityService {
+public class LoanEligibilityService {
 
-	public WsResponse checkLoanEligebility(@RequestBody CustomerRequest request) {
+	public WsResponse checkLoanEligibility(@RequestBody CustomerRequest request) {
 		WsResponse response = new WsResponse();
 	      List<String> mismatchList = response.getCriteriaMismatch();
 	      
